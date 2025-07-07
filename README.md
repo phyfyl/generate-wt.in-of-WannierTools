@@ -4,3 +4,4 @@
 python gen_wt_in.py
 ### Notice, before using, you should set the parameters in the beginning of the script, especially the "calc_task" and "wt_path".
 ### If you want to set "calc_task=24", i.e. calculate the CPGE tensor, because the origin WannierTools never have this function, I recommand you install my script "CPGE.f90" into WannierTools:
+### https://github.com/phyfyl/CPGE_calculation
